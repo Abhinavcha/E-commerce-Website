@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://doggystickers.vercel.app/">Live Demo</a> •
   <a href="https://nextails.com/">See more starters</a> •
-  <a href="https://twitter.com/deepwhitman">Follow me on Twitter</a>
+  <a href="https://www.linkedin.com/in/abhinav-chauhan01/">Connect to me via LinkedIn</a>
 </p>
 </div>
 
